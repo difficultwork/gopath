@@ -1,3 +1,36 @@
 [submodule "src/golang.org/x/tools"]
 	path = src/golang.org/x/tools
 	url = https://github.com/golang/tools.git
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net.git
+[submodule "src/github.com/rogpeppe/godef"]
+	path = src/github.com/rogpeppe/godef
+	url = https://github.com/rogpeppe/godef.git
+[submodule "src/github.com/lukehoban/go-outline"]
+	path = src/github.com/lukehoban/go-outline
+	url = https://github.com/lukehoban/go-outline.git
+[submodule "src/github.com/newhook/go-symbols"]
+	path = src/github.com/newhook/go-symbols
+	url = https://github.com/newhook/go-symbols.git
+[submodule "src/github.com/bytbox/golint"]
+	path = src/github.com/bytbox/golint
+	url = https://github.com/bytbox/golint.git
+[submodule "src/github.com/go-delve/delve"]
+	path = src/github.com/go-delve/delve
+	url = https://github.com/go-delve/delve.git
+[submodule "src/github.com/karrick/godirwalk"]
+	path = src/github.com/karrick/godirwalk
+	url = https://github.com/karrick/godirwalk.git
+[submodule "src/github.com/nsf/gocode"]
+	path = src/github.com/nsf/gocode
+	url = https://github.com/nsf/gocode.git
+[submodule "src/github.com/pkg/errors"]
+	path = src/github.com/pkg/errors
+	url = https://github.com/pkg/errors.git
+[submodule "src/github.com/uudashr/gopkgs"]
+	path = src/github.com/uudashr/gopkgs
+	url = https://github.com/uudashr/gopkgs.git
+[submodule "src/github.com/sqs/goreturns"]
+	path = src/github.com/sqs/goreturns
+	url = https://github.com/sqs/goreturns.git
