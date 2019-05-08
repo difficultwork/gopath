@@ -12,9 +12,9 @@ gopath搭配vscode打造golang开发环境
 
 ## 安装工具
  ```
- cd %GOPATH%/src
+ cd $GOPATH/src
  go install github.com/nsf/gocode
- go install github.com/uudashr/gopkgs
+ go install github.com/uudashr/gopkgs/cmd/gopkgs
  go install github.com/rogpeppe/godef
  go install github.com/lukehoban/go-outline
  go install github.com/newhook/go-symbols
@@ -23,6 +23,7 @@ gopath搭配vscode打造golang开发环境
  go install github.com/josharian/impl
  go install github.com/sqs/goreturns
  go install github.com/bytbox/golint
- go install github.com/cweill/gotests
+ go install github.com/cweill/gotests/gotests
  go install github.com/go-delve/delve/cmd/dlv
  ```
+注意：Windows下请使用 cd %GOPATH%\src 进入对应目录！
