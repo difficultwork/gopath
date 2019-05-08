@@ -34,3 +34,9 @@
 [submodule "src/github.com/sqs/goreturns"]
 	path = src/github.com/sqs/goreturns
 	url = https://github.com/sqs/goreturns.git
+[submodule "src/github.com/cweill/gotests"]
+	path = src/github.com/cweill/gotests
+	url = https://github.com/cweill/gotests.git
+[submodule "src/github.com/josharian/impl"]
+	path = src/github.com/josharian/impl
+	url = https://github.com/josharian/impl.git
