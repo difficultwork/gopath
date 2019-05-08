@@ -6,7 +6,8 @@ gopath搭配vscode打造golang开发环境
  git clone --recursive https://github.com/DifficultWork/gopath.git
  ```
 
-并将根目录设置为环境变量GOPATH的value
+并将根目录设置为环境变量GOPATH的value。
+
 注意：只能使用git clone --recursive下载，其他方式无法下载引用的代码库！
 
 ## 安装工具
